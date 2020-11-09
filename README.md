@@ -3,11 +3,11 @@
 
 - 🔭 I’m the Secretary of the board for one non-profit https://operationenduringhonor.org and the Exectuive Director of the non-profit https://scsgmops.org. 
 - 🌱 I’m always trying to learn more Python.  
-- 💬 Ask me about Microsoft, PTSD, Veterans Issues, South Carolina, 
-- 📫 How to reach me: https://www.linkedin.com/in/chrisblevins
+- 💬 I know about Microsoft, PTSD, Veterans Issues, South Carolina, Logsitics, Workflow and BPM
+- 📫 https://www.linkedin.com/in/chrisblevins
 - ⚡ Fun fact: My nickname is Blevdog
 
 ## My purposes
 - :superhero:  Veterans Causes and PTSD
-- :technologist: Improving government technology expecially in the Southeastern United States
+- :technologist:  Improving government IT services, especially in the Southeastern United States
 - :rescue_worker_helmet: Working in the South Carolina State Guard and related charities

@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Chris Blevins.  I love working and living in South Carolina. 
-#### I am a technology strategist for Microsoft working with State and Local Governement agencies to transform the way govnermnet operates.  
+#### I am a Cloud Solutions Architect at Microsoft working with State and Local Government agencies to transform the way government operates.  
 
 - 🔭 I’m the Secretary of the board for one non-profit https://operationenduringhonor.org and the Exectuive Director of the non-profit https://scsgmops.org. 
 - 🌱 I’m always trying to learn more Python.  

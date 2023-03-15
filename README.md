@@ -1,7 +1,8 @@
 ### Hi there 👋 my name is Chris Blevins.  I love working and living in South Carolina. 
-#### I am a Cloud Solutions Architect at Microsoft working with State and Local Government agencies to transform the way government operates.  
+#### I am a Principal Data and AI Cloud Solutions Architect at Microsoft working with State and Local Government agencies and Earth Observation companies to transform the way government operates.  
 
-- 🔭 I’m the Secretary of the board for one non-profit https://operationenduringhonor.org and the Exectuive Director of the non-profit https://scsgmops.org. 
+- 🔭 I’m the Secretary of the board for one non-profit https://operationenduringhonor.org.
+- 🤖 I'm very interested and enjoy working with Generative and Instructive AI 
 - 🌱 I’m always trying to learn more Python.  
 - 💬 I know about Microsoft, PTSD, Veterans Issues, South Carolina, Logsitics, Workflow and BPM
 - 📫 https://www.linkedin.com/in/chrisblevins
@@ -9,5 +10,5 @@
 
 ## My purposes
 - :superhero:  Veterans Causes and PTSD
-- :technologist:  Improving government IT services, especially in the Southeastern United States
+- :technologist:  Improving government IT services, Geospatial Analytics for Earth Observation and Generative AI
 - :rescue_worker_helmet: Working in the South Carolina State Guard and related charities
